@@ -26,7 +26,13 @@ I use [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html). The theme i
 
 ## Gallery
 
-![Rosé Pine Moon](./assets/screenshot.png)
+**Rosé Pine**
+
+![Rosé Pine](./assets/rose-pine.png)
+
+**Rosé Pine Moon**
+
+![Rosé Pine Moon](./assets/rose-pine-moon.png)
 
 ## Thanks to
 
