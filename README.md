@@ -16,13 +16,11 @@
 1. `git clone https://github.com/ldakhoa/rose-pine-xcode.git`
 2. `cd rose-pine-xcode`
 3. `cp rose-pine.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
-4. Reset the Xcode
-5. Change theme by select `Xcode > Preferences > Fonts & Colors > rose-pine`
-6. Select `rose-pine` from the themes dropdown
-
-## Font
-
-I use [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html). The theme is setup to use this font, but you can easily change it by highlighting all styles in Xcode > Preferences > Fonts & Colors > rose-pine and changing the fonts.
+4. `cp rose-pine-moon.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+5. `cp rose-pine-dawn.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+6. Reset Xcode
+7. Change theme by selecting `Xcode > Preferences > Fonts & Colors > rose-pine`
+8. Select `rose-pine` from the themes dropdown
 
 ## Gallery
 
@@ -34,6 +32,11 @@ I use [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html). The theme i
 
 ![Rosé Pine Moon](./assets/rose-pine-moon.png)
 
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn](./assets/rose-pine-dawn.png)
+
 ## Thanks to
 
 - [ldakhoa](https://github.com/ldakhoa)
+- [BradPatras](https://github.com/BradPatras)
