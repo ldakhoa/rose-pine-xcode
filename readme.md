@@ -13,14 +13,14 @@
 
 ## Usage
 
-1. `git clone https://github.com/BradPatras/rose-pine-xcode.git`
+1. `git clone https://github.com/ldakhoa/rose-pine-xcode.git`
 2. `cd rose-pine-xcode`
 3. `cp rose-pine.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 4. `cp rose-pine-moon.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 5. `cp rose-pine-dawn.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes`
-6. Reset Xcode
-7. Change theme by selecting `Xcode > Preferences > Fonts & Colors > rose-pine`
-8. Select `rose-pine` from the themes dropdown
+6. Restart Xcode
+7. Change theme by selecting `Xcode > Preferences > Themes`
+8. Select a `rose-pine` variant from the themes list
 
 ## Gallery
 
