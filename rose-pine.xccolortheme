@@ -43,7 +43,7 @@
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.SFNS-RegularItalic - 10.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
-	<string>0 0 0 0.7</string>
+	<string>0.768627 0.654902 0.905882 1</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0 0 0.8 1</string>
 	<key>DVTMarkupTextLinkFont</key>
